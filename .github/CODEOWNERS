@@ -1,0 +1,5 @@
+# Require your approval for changes to automation, scripts, and content
+.github/workflows/*       @thomasfeduk
+.github/CODEOWNERS        @thomasfeduk
+generate_toc.py           @thomasfeduk
+
