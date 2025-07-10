@@ -6,6 +6,7 @@
   - [Free actions:](#free-actions)
   - [Held Actions](#held-actions)
 - [Mundane/Simple Items](#mundanesimple-items)
+  - [Healing](#healing)
   - [Potions](#potions)
     - [Self](#self)
       - [Full Action: **Max heal**](#full-action-max-heal)
@@ -56,6 +57,8 @@
 - Spells: Spell slot is immediately consumed even if the trigger is never reched and concentration must be held. **(Need to discuss: Lets chat. I always thought this was shitty but we can keep it this way if people feel its mechanically balanced)**
 
 # Mundane/Simple Items
+- ## Healing
+  - Heals stuff
 - ## Potions
 
   - ### Self
