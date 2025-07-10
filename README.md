@@ -6,6 +6,7 @@
   - [Free actions:](#free-actions)
   - [Held Actions](#held-actions)
 - [Mundane/Simple Items](#mundanesimple-items)
+  - [Healing](#healing)
   - [Potions](#potions)
     - [Self](#self)
       - [Full Action: **Max heal**](#full-action-max-heal)
